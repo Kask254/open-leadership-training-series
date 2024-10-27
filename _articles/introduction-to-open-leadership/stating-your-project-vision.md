@@ -1,17 +1,28 @@
 ---
 layout: page
-title: "Your Project Vision"
-module: "1.4"
-date: 2016-10-06 14:05:56
+title: "Digital Rights Mtaani"
+module: "1.0"
+date: 2024-10-23 14:05:56
 time: "15 mins"
 following: _articles/opening-your-project.md
-summary: "Articulate your big idea, vision or dream that you want to achieve by working open, and experiment with expressing your vision in a short format."
+summary: "To develop inclusive and effective community-led platforms for knowledge-building on digital rights, integrating issues of gender justice, accessibility, surveillance, data extraction, and broader feminist online organizing "
 prereq: "Have completed previous modules in this section"
 format: >
-  *   Read and watch videos on this topic
-
+  *   Done
   *   Complete a thinking/writing assignment
-materials: "Pencil and paper or a computer-- a way of recording your statement."
+materials: "Feminist research shows how, in many parts of the world, the pace at which our digital spaces are
+expanding outdoes the pace at which digital rights policies are implemented / the pace at which
+digital rights awareness grows. Issues pertaining to privacy, consent, and cybersecurity for example,
+remain tech-jargon and oftentimes can even seem too intimidating to understand. More crucially,
+the tech ecosystem as is currently organised deliberately makes these issues obscure in its pursuit
+of profit and political power. This, of course, ensures that structures of marginalisation are kept in
+place if not entrenched, which points to how economically precarious communities are
+
+disproportionately estranged in an already estranging tech ecosystem. This estrangement is a form
+of systemic marginalisation that manifests as class violence.
+To intervene against this estrangement, and to respond to the call for an equally growing digital
+rights awareness, the Digital Rights Mtaani Project seeks to amplify conversations on cyber security, digital rights and internet
+governance."
 ---
 
 * TOC
@@ -22,11 +33,13 @@ materials: "Pencil and paper or a computer-- a way of recording your statement."
 
 Before you jump into section 2, on Opening Your Project, take a few minutes to state your vision for your project and community going forward. Your vision is what powers your project and excites and attracts contributors. It’s important to be able to say what you plan to do, clearly and concisely, in a short form, to anyone, on a moment’s notice! The process of choosing these words may also help you think through and refine your project idea and goals. This is a great exercise to do with a small group of community members or contributors if available, to ensure that everyone has a shared understanding of the project.
 
-> *Articulate your big idea, vision or dream that you want to achieve by working open, and experiment with expressing your vision in a short format.*
+> I am working with structurally silenced communities through the 'Digital Rights Mtaani' project in order to build
+feminist knowledge on digital rights and internent governance. I am working ooen because it takes community to create inclusive and effective people-led knowledge-
+building platforms on digital rights*
 
 Take a few minutes to state your vision for your project and community going forward. It’s important to be able to say what you plan to do, clearly and concisely, in a short form, to anyone, on a moment’s notice! t.
 
-<!--- placeholder for video --->
+<https://youtu.be/ZnAg2phOU_4>
 
 ### {{ site.assignment }} Write Your Vision or Mission Statement
 
